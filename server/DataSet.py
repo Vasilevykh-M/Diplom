@@ -1,7 +1,3 @@
-import psycopg2
-import configparser
-import pandas as pd
-import numpy as np
 import CustomDate
 
 class DataSet:
